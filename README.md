@@ -1,6 +1,6 @@
 # nodejs
 
-![circleci][circleci]
+[![circleci][circleci]](https://circleci.com/gh/vektorcloud/nodejs)
 
 Alpine-based NodeJS image
 
